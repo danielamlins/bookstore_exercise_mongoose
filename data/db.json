@@ -1,0 +1,28 @@
+{
+  "books": [
+    {
+      "Author": "J. R. R. Tolkien",
+      "Name": "The Lord of the Rings",
+      "Year": "1954",
+      "Price": "40",
+      "id": "yxm2Q6HFCEg4icW3L1Jyy"
+    },
+    {
+      "Name": "Discworld",
+      "Author": "Terry Pratchett",
+      "Year": "1983",
+      "Price": "20",
+      "id": "EhZyTYJ2eanrIk441ZYBN"
+    }
+  ],
+  "users": [
+    {
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "email": "mail@example.com",
+      "password": "$2b$10$bAIhwkuWClD390or2tu7FuOwuWRoPvvH/q0I3EGoCAfvKQcuP8ji2",
+      "id": "GI2eZ93fkWD0-BfIaj0Hz"
+    }
+  ],
+  "orders": []
+}
